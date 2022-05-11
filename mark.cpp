@@ -42,6 +42,8 @@ int mark(std::string levelInput) {
     } else {
         mark = -1;
     }
+    
+    // output
     return mark;
 }
 
